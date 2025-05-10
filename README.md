@@ -3,7 +3,7 @@
 > ⚠️ **Русский и English ниже — scroll down for ENGLISH**  
 > README на двух языках, потому что уважение к кодерам и там, и тут.
 
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVyd3RuZnYwZHFpcDd4aXRhMHlhNWxsa2FrY2NrbTNjNWU2MzdncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4KhQo2MESJkc6QbS/giphy.gif)
+![demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5emhvMXJxM3ZlYW13M2FuNjNwMnFkODF0N3RkNG5odTkwbGVvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 
 ---
 
