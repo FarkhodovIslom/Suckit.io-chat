@@ -95,7 +95,7 @@ No bloated Bootstrap, no user auth bullshit — just raw WebSocket action and Ja
 ## 📦 Installation & Launch
 
 ```bash
-git clone https://github.com/your-username/suckit.io.git
+git clone https://github.com/FarkhodovIslom/Suckit.io-chat.git
 cd suckit.io
 npm install
 npm run dev
