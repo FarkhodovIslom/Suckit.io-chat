@@ -1,9 +1,16 @@
 # 💬 Suckit.io Chat
 
-🔥 **Suckit.io** — это real-time чат на базе **Socket.IO**, сделанный ради фана, практики и чтобы поугарать с братвой.  
-Никакого блевотного Bootstrap, никакой авторизации — только WebSocket, грязный JavaScript и хардкор.
+> ⚠️ **Русский и English ниже — scroll down for ENGLISH**  
+> README на двух языках, потому что уважение к кодерам и там, и тут.
 
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVyd3RuZnYwZHFpcDd4aXRhMHlhNWxsa2FrY2NrbTNjNWU2MzdncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4KhQo2MESJkc6QbS/giphy.gif)
+
+---
+
+## 🇷🇺 Русская версия
+
+🔥 **Suckit.io** — это real-time чат на базе **Socket.IO**, сделанный ради фана, практики и чтобы поугарать с братвой.  
+Никакого блевотного Bootstrap, никакой авторизации — только WebSocket, грязный JavaScript и хардкор.
 
 ---
 
@@ -49,12 +56,11 @@ npm run dev
 
 
 
-# 💬 Suckit.io Chat
+## 🇬🇧 English version
 
 🔥 **Suckit.io** is a real-time chat app built on **Socket.IO**, made just for fun, practice, and flaming with your online homies.  
 No bloated Bootstrap, no user auth bullshit — just raw WebSocket action and JavaScript chaos.
 
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVyd3RuZnYwZHFpcDd4aXRhMHlhNWxsa2FrY2NrbTNjNWU2MzdncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4KhQo2MESJkc6QbS/giphy.gif)
 
 ---
 
@@ -93,9 +99,8 @@ git clone https://github.com/your-username/suckit.io.git
 cd suckit.io
 npm install
 npm run dev
-
+```
 🖕 License
 None. Fork it, break it, remix it. Just don’t be a dick.
-```
 
 ### 🍺 Author:  *Daddy-Hanzo* 😮‍💨
