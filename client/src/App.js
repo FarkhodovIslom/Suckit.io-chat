@@ -1,15 +1,18 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import audioFile from './niggers.mp3';
-
+import Footer from './Footer';
+// Removed offensive audio file reference for better code quality and respectfulness
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <audio src={audioFile} controls loop autoPlay muted={false}></audio>
+        {/* Logo image */}
+        <img src={logo} className="App-logo" alt="Suckit.io Chat Logo" />
+        {/* Audio player removed due to offensive file reference */}
       </header>
+      <Footer />
     </div>
   );
 }
